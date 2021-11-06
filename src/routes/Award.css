@@ -1,0 +1,14 @@
+.Movie {
+    text-align: center;
+}
+
+.picture{
+    margin-top: 5%;
+}
+
+.explain{
+    color: #392f31;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 5%;
+    font-size: 30px;
+}
